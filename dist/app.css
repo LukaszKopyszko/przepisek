@@ -101,6 +101,7 @@ nav .menu-items li {
   font-size: 75px;
   font-weight: 700;
   font-style: italic;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 .hero .banner-wrap .slogan-wrap {
   position: absolute;
@@ -112,6 +113,7 @@ nav .menu-items li {
   color: white;
   font-size: 72px;
   margin: 0;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 .hero .layer {
   width: 100%;
@@ -132,6 +134,7 @@ span.changer::before {
   content: "pyszne";
   font-weight: 900;
   animation: animate infinite 5s;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 @keyframes animate {
@@ -202,6 +205,7 @@ button {
   font-size: 60px;
   font-weight: 500;
   margin-bottom: 25px;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 .cards {
